@@ -1,0 +1,173 @@
+body{
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-color: rgba(0,0,0,0.5);
+
+
+}
+
+*{
+    color: white;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.center{
+    position: relative;
+    left: 15cm;
+    width: 25%;
+    margin: 1cm;
+}
+
+
+.eren{
+    top: 3cm;
+    position: relative;
+    background-color: black;
+    padding: 0.8cm;
+    border-radius: 30px;    
+}
+
+
+#eren{
+    background-color: black;
+    border-radius: 1cm;
+    padding: 20px;
+    position: relative;
+    bottom: 5cm;
+    left: 15cm;
+    margin-right: 20cm;
+}
+
+.zeke{
+    background-color: black;
+    margin-right: 2px;
+    position: relative;
+    
+    left: 35cm;
+    width: 270px;
+    padding: 30px;
+    border-radius: 2cm;
+    
+}
+
+#zeke{
+    background-color: black;
+    border-radius: 1cm;
+    padding: 20px;
+    position: relative;
+    left: 3cm;
+    bottom: 8cm;
+    margin-right: 20cm;
+}
+
+.levi{
+    background-color: black;
+    padding: 30px;
+    border-radius: 2cm;
+    position: relative;
+    width: 270px;
+    bottom: 3cm;
+
+}
+
+#levi{
+    background-color: black;
+    border-radius: 1cm;
+    padding: 20px;
+    position: relative;
+    left:15cm;
+    bottom: 12cm;
+    text-align: justify;
+    margin-right: 20cm;
+}
+
+.linklist{
+    background-color: black;
+    position: relative;
+    bottom: 5cm;   
+    margin-right: 10cm; 
+    border-radius: 1cm;
+    padding: 20px;
+    
+    left: 5cm;
+}
+
+div.box1{
+    background-color: black;
+    border-radius: 1cm;
+    padding: 0.5cm;
+    margin: 0.2cm;
+}
+
+h2.introbox1{
+    position: relative;
+    background-color: black;
+    border-radius: 0.5cm;
+    padding: 20px;
+    text-align: center;
+    top: 0.8cm;
+}
+
+h2.charbox{
+    position: relative;
+    top: 2cm;
+    background-color: black;
+    border-radius: 1cm;
+    padding: 20px;
+    text-align: center;
+}
+
+.link1{
+    position: relative;
+}
+
+table{
+    position: relative;
+    left: 2cm;
+}
+
+
+th{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+    padding-left: 3cm;
+    padding-right: 3cm;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+}
+
+.desc_table{
+    font-size: 26px;
+    text-align: center;
+}
+
+.p3{
+    background-color: black;
+    padding: 1cm;
+    font-size: 20px;
+    border-radius: 1cm;
+    text-align: center;
+
+}
+
+#container_div{
+    display: grid;
+    background-color: rgb(0, 0, 0);
+    grid-template-columns: auto auto auto;
+    width: auto;
+    height: auto;
+    border-radius: 1cm;
+}
+
+
+.img_size{
+    border-radius: 1cm;
+    width: 10cm;
+    padding: 10px;
+    margin: 10px;
+}
